@@ -1,0 +1,6 @@
+-List Properties:-
+mutable: can be altered/changed
+dynamic: can add new items
+heterogenous: can contain items of different data types
+ordered: items are stored with indexing
+iterable: items can be iterated through loop as they are indexed
