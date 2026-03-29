@@ -1,0 +1,8 @@
+-Dictionary Properties:-
+mutable: can be altered/changed
+dynamic: can add new items
+heterogenous: can contain items of different data types
+ordered: items are stored with indexing but was unordered before python version 3.7
+iterable: items can be iterated through loop as they are indexed
+pairs: data is stored in key:value form
+key names must be unique otherwise the new key will override the old one
