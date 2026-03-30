@@ -1,0 +1,6 @@
+-Tuple Properties:-
+immutable: can't be altered/changed
+static: can't add new items
+heterogenous: can contain items of different data types
+ordered: items are stored with indexing
+iterable: items can be iterated through loop as they are indexed
