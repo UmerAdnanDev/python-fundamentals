@@ -1,0 +1,8 @@
+- Error: Error in programming causes hinderance in the flow of program
+        it causes the program to crash and is irrecoverable
+- Exception: are recoverable kind of errors
+-Exception handling helps in managing code which may lead the program to crash 
+structure
+try : hold code that might crash
+except : is executed when exception is raised or is their
+finally: is a block which will execute either way even if their is an error or not
