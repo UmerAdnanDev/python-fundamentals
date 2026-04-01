@@ -1,0 +1,3 @@
+- file types
+1 text file (human readable i.e .txt , .csv)
+2 binary file (not readable by humans(as it exist in binary i.e png,jpg,mp3,pdf ..etc))
