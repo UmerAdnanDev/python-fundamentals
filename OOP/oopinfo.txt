@@ -1,0 +1,12 @@
+Prior to OOPS procegeral and structural method was used (using functions)
+OOP (Object Oriented Programming) helps in
+- securing fields attributes(data)
+- reusability of code
+- reduces duplication of code
+- is applicable to actual real world problem solving 
+- attributes(methods) & fields(variables) are stored in 
+
+-Class is a blueprint to make an Object
+-Object is an instance of a Class
+For Example: Class is a building architecture and if we use it to create house , apartment,building
+then they are it's objects
